@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.14.1
+#       jupytext_version: 1.16.2
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -28,7 +28,7 @@
 #
 # You can download [this notebook](odc-stac-demo.ipynb) to try it out on your own.
 
-# %% tags=[]
+# %%
 # %pip install planetary-computer
 
 # %% [markdown] user_expressions=[]
@@ -279,7 +279,7 @@ print("Done")
 # %% [markdown] user_expressions=[]
 # ## Dump Versions
 
-# %% tags=[]
+# %%
 import odc.geo
 import odc.stac
 
